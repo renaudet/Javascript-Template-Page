@@ -1,0 +1,5 @@
+<jtp:template type="text" extension="js"/><jtp:property name="someProperty" type="string" default="someValue"/>[...111...]
+<jtp:getProperty name="someProperty"/>
+[...222...]
+<%    out.print(executionContext.someProperty);  %>
+[...333...]

@@ -1,0 +1,14 @@
+{
+  "name": "javascript-template-page",
+  "version": "1.0.0",
+  "description": "JSP-like template engine for Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Nicolas Renaudet",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
